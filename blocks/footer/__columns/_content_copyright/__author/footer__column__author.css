@@ -1,0 +1,9 @@
+.footer__column__author{
+    font-family: 'Inter-InterBold';
+    font-size: 18px;
+    line-height: 25px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    bottom: 18px;
+    margin-top: 18px;
+}

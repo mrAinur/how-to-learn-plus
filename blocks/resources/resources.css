@@ -1,0 +1,9 @@
+.resources{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: none;
+    border: 1px solid #a7a7a7;
+    margin: 100px 0 217px 0;
+  }
