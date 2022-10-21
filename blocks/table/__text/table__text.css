@@ -1,6 +1,7 @@
 .table__text{
-    font-family: 'Inter-SemiBold';
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     line-height: 1.2;
     font-size: 18px;
     margin-top: 20px;
+    font-weight: normal;
 }

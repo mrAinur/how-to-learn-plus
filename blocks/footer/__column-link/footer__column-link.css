@@ -1,10 +1,11 @@
 .footer__column-link{
     text-decoration: none;
-    font-family: 'Inter-Regular';
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     font-size: 18px;
     line-height: 18px;
     margin-bottom: 16px;
     color: rgb(255, 255, 255);
+    font-weight: normal;
 }
 .footer__column-link:hover{
     animation: opacity 0.5s linear forwards;

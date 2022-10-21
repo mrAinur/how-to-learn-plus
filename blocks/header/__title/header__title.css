@@ -1,11 +1,11 @@
 .header__title{
-    font-family: 'Inter-Bold';
+    font-family: 'Inter-SemiBold', 'Arial', 'Helvetica', sans-serif;
     font-size: 102px;
     font-weight: 600;
     line-height: 96px;
     display: flex;
     width: 730px;
-    position: absolute;
-    left: 64px;
+    justify-content: center;
+    margin-left: 64px;
     z-index: 1;
 }
