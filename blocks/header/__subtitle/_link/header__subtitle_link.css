@@ -4,6 +4,7 @@
     font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     font-size: 18px;
     line-height: 25px;
+    font-weight: normal;
 }
 .header__subtitle_link:hover{
     animation: opacity 0.5s linear forwards;
