@@ -1,0 +1,9 @@
+.header__link{
+    margin: 0;
+    text-decoration: none;
+    color: #2f80ed;
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: normal;
+}

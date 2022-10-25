@@ -1,8 +1,0 @@
-.white-line_footer{
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    padding: 60px auto 40px auto;
-    border-top: 2px solid rgb(255, 255, 255);
-    border-bottom: 2px solid rgb(255, 255, 255);
-}
