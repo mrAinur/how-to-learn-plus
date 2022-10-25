@@ -1,9 +1,9 @@
-.khan__buy-link{
-    margin: 0;
-    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-    font-size: 30px;
-    line-height: 42px;
-    text-decoration: none;
-    color: #2f80ed;
-    font-weight: normal;
+.khan__buy-link {
+  margin: 0;
+  font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  font-size: 30px;
+  line-height: 42px;
+  text-decoration: none;
+  color: #2f80ed;
+  font-weight: normal;
 }

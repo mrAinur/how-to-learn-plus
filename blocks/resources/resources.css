@@ -1,8 +1,8 @@
-.resources{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border-bottom: none;
-    padding: 100px 0 217px 0;
-  }
+.resources {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-bottom: none;
+  padding: 100px 0 217px 0;
+}

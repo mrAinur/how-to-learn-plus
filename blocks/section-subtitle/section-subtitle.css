@@ -1,12 +1,12 @@
-.section-subtitle{
-    text-align: center;
-    margin: 0;
-    padding: 0;
-    margin-top: 20px;
-    width: 60%;
-    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-    line-height: 34px;
-    font-size: 24px;
-    z-index: 1;
-    font-weight: normal;
+.section-subtitle {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 20px;
+  width: 60%;
+  font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  line-height: 34px;
+  font-size: 24px;
+  z-index: 1;
+  font-weight: normal;
 }

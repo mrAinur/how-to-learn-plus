@@ -1,6 +1,7 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts.css);
 /*импорт блоков*/
+@import url(../blocks/page/page.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/feynman/feynman.css);
@@ -65,7 +66,9 @@
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__li/footer__li.css);
 @import url(../blocks/resources/__link/resources__link.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
 /*импорт модификаторов*/
 @import url(../blocks/section-title/_theme/_dark/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme/_dark/section-subtitle_theme_dark.css);

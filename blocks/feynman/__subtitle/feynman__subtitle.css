@@ -1,8 +1,8 @@
-.feynman__subtitle{
-    margin: 0;
-    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-    line-height: 51px;
-    font-size: 36px;
-    z-index: 1;
-    font-weight: normal;
+.feynman__subtitle {
+  margin: 0;
+  font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  line-height: 51px;
+  font-size: 36px;
+  z-index: 1;
+  font-weight: normal;
 }

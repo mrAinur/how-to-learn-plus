@@ -1,10 +1,10 @@
-.feynman__title{
-    margin: 0 0 70px 0;
-    text-align: center;
-    width: 648px;
-    font-family: 'Semi-Bold';
-    line-height: 1.15;
-    font-size: 120px;
-    font-weight: 600;
-    z-index: 1;
+.feynman__title {
+  margin: 0 0 70px 0;
+  text-align: center;
+  width: 648px;
+  font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: 600;
+  z-index: 1;
 }

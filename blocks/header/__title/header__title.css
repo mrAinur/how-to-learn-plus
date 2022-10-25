@@ -1,12 +1,12 @@
-.header__title{
-    margin: 0;
-    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-    font-size: 102px;
-    font-weight: 600;
-    line-height: 96px;
-    display: flex;
-    width: 730px;
-    justify-content: center;
-    margin-left: 64px;
-    z-index: 2;
+.header__title {
+  margin: 0;
+  font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  font-size: 102px;
+  font-weight: 600;
+  line-height: 96px;
+  display: flex;
+  width: 730px;
+  justify-content: center;
+  margin-left: 64px;
+  z-index: 2;
 }

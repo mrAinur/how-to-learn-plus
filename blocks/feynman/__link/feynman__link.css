@@ -1,13 +1,13 @@
-.feynman__link{
-    margin: 0;
-    display: flex;
-    position: absolute;
-    top: 50%;
-    right: 48px;
-    text-decoration: none;
-    color: #2f80ed;
-    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-    line-height: 51px;
-    font-size: 36px;
-    font-weight: normal;
+.feynman__link {
+  margin: 0;
+  display: flex;
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  text-decoration: none;
+  color: #2f80ed;
+  font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
 }
