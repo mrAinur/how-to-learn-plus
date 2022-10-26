@@ -5,5 +5,5 @@
   top: 30px;
   left: 64px;
   z-index: 1;
-  background-image: url(../../../../images/logo_place_header.svg);
+  background-image: url('../../../images/logo_place_header.svg');
 }

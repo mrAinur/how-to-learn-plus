@@ -15,7 +15,6 @@
 @import url(../blocks/video/video.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/two-columns/two-columns.css);
-@import url(../blocks/techniques/div/div.css);
 @import url(../blocks/techniques/cards/cards.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-title/section-title.css);
@@ -30,7 +29,6 @@
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/square-pic/header__square-pic.css);
 @import url(../blocks/header/__link/header__link.css);
-@import url(../blocks/description/__text/description__text.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
@@ -66,7 +64,7 @@
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
-@import url(../blocks/footer/__li/footer__li.css);
+@import url(../blocks/footer/__list-item/footer__list-item.css);
 @import url(../blocks/resources/__link/resources__link.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 /*импорт модификаторов*/
@@ -80,4 +78,4 @@
 @import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_social.css);
-@import url(../blocks/footer/__column/_content/footer__column_contetnt_info.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_info.css);
